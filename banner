@@ -1,0 +1,15 @@
+ui_print "|========================================|";
+ui_print "|                                        |";
+ui_print "|     |  |   __   °  _|_                 |";
+ui_print "|     |  |  |  |  |   |   |/\  |  \/     |";
+ui_print "|     |__|  |  |  |   |   |    |  /\     |";
+ui_print "|                                        |";
+ui_print "|========================================|";
+ui_print "|      Made with Love and Hardwork       |";
+ui_print "|========================================|";
+ui_print "| Device          : Redmi Note 6 Pro     |";
+ui_print "| Codename        : tulip                |";
+ui_print "| Linux version   : 4.19                 |";
+ui_print "| Compiler        : Cosmic clang v18.0.0 |";
+ui_print "| Maintainer      : GhostMaster69-dev    |";
+ui_print "|========================================|";
