@@ -10,6 +10,6 @@
 | Device          : Redmi Note 6 Pro     |
 | Codename        : tulip                |
 | Linux version   : 4.4                  |
-| Compiler        : Cosmic clang         |
+| Compiler        : Android clang 17.0.4 |
 | Maintainer      : GhostMaster69-dev    |
 ==========================================
