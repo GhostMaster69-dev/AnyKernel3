@@ -1,11 +1,12 @@
 NAME ?= unitrix
 DEVICE := tulip
+TAG ?= QTI-DYN-
 LINUX_VERSION ?= 4.4
 DATE := $(shell date "+%d%m%Y-%I%M")
 
-SZIP := $(NAME)-$(DEVICE)-$(LINUX_VERSION)-STABLE-$(DATE).zip
-BZIP := $(NAME)-$(DEVICE)-$(LINUX_VERSION)-BETA-$(DATE).zip
-TZIP := $(NAME)-$(DEVICE)-$(LINUX_VERSION)-TEST-$(DATE).zip
+SZIP := $(NAME)-$(DEVICE)-$(LINUX_VERSION)-$(TAG)$(DATE).zip
+BZIP := $(NAME)-$(DEVICE)-$(LINUX_VERSION)-BETA-$(TAG)$(DATE).zip
+TZIP := $(NAME)-$(DEVICE)-$(LINUX_VERSION)-TEST-$(TAG)$(DATE).zip
 
 EXCLUDE := Makefile *.git* *.jar* *.zip* README.md *placeholder
 
