@@ -7,9 +7,10 @@
 |========================================|
 |      Made with Love and Hardwork       |
 |========================================|
-| Device          : Redmi Note 6 Pro     |
+| Brand           : Xiaomi               |
+| Model           : Redmi Note 6 Pro     |
 | Codename        : tulip                |
-| Linux version   : 4.4                  |
-| Compiler        : Android clang 19.0.1 |
+| SoC Model       : Qcom SDM660          |
+| Compiler        : Android clang latest |
 | Maintainer      : GhostMaster69-dev    |
 ==========================================
