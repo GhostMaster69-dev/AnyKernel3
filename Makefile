@@ -1,5 +1,5 @@
 NAME ?= unitrix
-DEVICE := tulip
+DEVICE := wayne
 TAG ?= QTI-DYN-
 LINUX_VERSION ?= 4.4
 DATE := $(shell date "+%d%m%Y-%I%M")
